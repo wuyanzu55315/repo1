@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maven_Test_controller/maven_Test_controller.iml" filepath="$PROJECT_DIR$/maven_Test_controller/maven_Test_controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_Test_dao/maven_Test_dao.iml" filepath="$PROJECT_DIR$/maven_Test_dao/maven_Test_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_Test_parent.iml" filepath="$PROJECT_DIR$/maven_Test_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_Test_pojo/maven_Test_pojo.iml" filepath="$PROJECT_DIR$/maven_Test_pojo/maven_Test_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_Test_service/maven_Test_service.iml" filepath="$PROJECT_DIR$/maven_Test_service/maven_Test_service.iml" />
+    </modules>
+  </component>
+</project>
